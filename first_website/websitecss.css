@@ -1,0 +1,33 @@
+body {
+  font-family: arial;
+  margin: 0;
+  background-color: purple;
+  color: black;
+}
+
+header {
+  background-color: lightgray;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.project {
+  background-color: blue;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
